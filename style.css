@@ -1,0 +1,71 @@
+h1 {
+  text-align: center;
+  font-family: "Arial";
+  font-size: 36px;
+  background-color: lightgray;
+  padding: 20px;
+}
+
+body  {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.container {
+    width: 500px;
+    margin: 20px auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.bal, .records  {
+    text-align: center;
+}
+
+
+.square {
+    width: 100px;
+    height: 100px;
+}
+
+
+.blue {
+    background-color: lightskyblue;
+}
+
+.pink  {
+    background-color: pink;
+}
+
+.red {
+    background-image: url(250px-Super_Kazuya.png);
+    background-size: 100px 100px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.tomato {
+    background-color: tomato;
+}
+
+.burlywood {
+    background-color: burlywood;
+}
+
+ .square_closed {
+    background-color: black;
+    background-image: none;
+}
